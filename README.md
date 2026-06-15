@@ -6,7 +6,7 @@ A full-stack web application that continuously verifies user identity through **
 
 ---
 
-## What It Does 
+## What It Does
 
 Traditional authentication stops at login. BioAuth **keeps verifying you** — every 10 seconds it analyzes how you type and move your mouse, comparing it against your personal behavioral baseline. If something seems off, it challenges you or blocks the session.
 
