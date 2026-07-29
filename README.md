@@ -1,4 +1,4 @@
-# BioAuth – Behavioral Biometrics Authentication.          
+# BioAuth – Behavioral Biometrics Authentication.         
 
 A full-stack web application that continuously verifies user identity through **keystroke dynamics** and **mouse movement analysis** — no extra hardware needed.
 
